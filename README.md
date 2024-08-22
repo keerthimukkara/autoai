@@ -2,12 +2,7 @@
 
 Welcome to the Snake AI project! This repository contains an implementation of a self-learning AI agent designed to play the classic Snake game. The agent is trained using Q-learning, a type of reinforcement learning, and leverages the PyTorch framework for neural network training and inference.
 
-## Developers
 
-- [Youkta](https://github.com/Youkta)
-- [Parnika-P](https://github.com/Parnika-P)
-- [sharanyaM30](https://github.com/sharanyaM30)
-- [mathangiVS](https://github.com/mathangiVS)
 
 ## Features
 
@@ -79,6 +74,3 @@ Welcome to the Snake AI project! This repository contains an implementation of a
 - Feature to store the previous game’s performance and resume.
 - Use NEAT algorithm instead of deep Q-learning for better learning.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
